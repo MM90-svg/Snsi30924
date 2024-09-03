@@ -1,3 +1,20 @@
+#EXTINF:-1 tvg-chno="107" tvg-id="DidikTVKPM" tvg-name="DidikTVKPM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_7.png" group-title="马来西亚",Media Prima NTV7
+https://live01.gohkh9.eu.org/live.php?id=DidikTV
+#EXTINF:-1 tvg-chno="106" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM6.png" group-title="马来西亚",RTM TV 6
+https://live01.gohkh9.eu.org/live.php?id=TV6
+#EXTINF:-1 tvg-chno="108" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_8.png" group-title="马来西亚",Media Prima 八度空间
+https://live01.gohkh9.eu.org/live.php?id=tv8
+#EXTINF:-1 tvg-chno="109" tvg-id="TV9" tvg-name="TV9" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/MPB_9.png" group-title="马来西亚",Media Prima TV9
+https://live01.gohkh9.eu.org/live.php?id=TV9
+#EXTINF:-1 group-title="马来西亚",GOSHOP
+https://live02.gohkh9.eu.org/php/GOSHOP.php?id=480
+#EXTINF:-1 group-title="马来西亚",DEWAN RAKYAT
+https://live01.gohkh9.eu.org/live.php?id=DEWAN
+#EXTINF:-1 group-title="马来西亚",SUKAN RTM
+https://live01.gohkh9.eu.org/live.php?id=SUKAN
+#EXTINF:-1 group-title="马来西亚",DEWAN NEGARA
+https://live01.gohkh9.eu.org/live.php?id=DEWAN
+
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191964
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/cn.png" tvg-id="cartoonnetwork.my" ,MY| CARTOON NETWORK HD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191894
