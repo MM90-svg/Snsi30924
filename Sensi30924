@@ -25,6 +25,25 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/13490
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191840
 
 
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrovv.png" ,MY| ASTRO VAANAVIL FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/29660
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrovv.png" tvg-id="astrovaanavil.my" ,MY| ASTRO VAANAVIL HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192011
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/vasnth.png" ,MY| VASANTHAM FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6673
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/vasnth.png" ,MY| VASANTHAM HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33001
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/vasnth.png" ,MY| VASANTHAM SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6672
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/chu.png" ,MY| CH U FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6677
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/chu.png" ,MY| CH U HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/33002
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/chu.png" ,MY| CH U SD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6676
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/ch8.png" ,MY| CH 8 FHD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/6679
+
 
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7qXnO6CIj9A/V7HGUq252lI/AAAAAAAAALI/otvvV8GWeXYUtUNStZubWKxOBtR-Ka8HQCLcB/s320/bein-sport-news-arabia2.png" group-title="BEIN SPORT",BeIN Sports AR 6
