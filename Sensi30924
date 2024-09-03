@@ -1,0 +1,17 @@
+group-title="MALAYSIA PREMIUM 2", MY: TV 3
+http://gamsgo.cyou:8080/30fe809e/ec00cbf3/158360
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3adc723d4576cb0b512751fe4073c326.png" group-title="MALAYSIA PREMIUM 2", MY: TV 9
+http://gamsgo.cyou:8080/30fe809e/ec00cbf3/171953
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7bcedbeb3814000d4e785498f51b2099.png" group-title="MALAYSIA PREMIUM 2", MY: TV Alhijrah
+http://gamsgo.cyou:8080/30fe809e/ec00cbf3/157491
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/66ac88e17edd3d12e424a58a3a9b1d45.png" group-title="MALAYSIA PREMIUM 2", MY: TVN Movies
+http://gamsgo.cyou:8080/30fe809e/ec00cbf3/297499
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="MALAYSIA PREMIUM 2", MY: Warner TV
+http://gamsgo.cyou:8080/30fe809e/ec00cbf3/157550
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="INDONESIA PREMIUM 2", ID: 01. ETV Live Event
+http://gamsgo.cyou:8080/30fe809e/ec00cbf3/298491
