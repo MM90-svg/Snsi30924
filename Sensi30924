@@ -17,3 +17,24 @@ http://mytv-extra.com:80/t12mgxyb335/9832948789/38120
 http://mytv-extra.com:80/t12mgxyb335/9832948789/38119
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| GEM SD
 http://mytv-extra.com:80/t12mgxyb335/9832948789/38118
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrovm.png" ,MY| ASTRO VINMEEN HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192012
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/SENSASI.png" ,MY| ASTRO SENSASI HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/13490
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroad.png" ,MY| ADITHYA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191840
+
+
+
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7qXnO6CIj9A/V7HGUq252lI/AAAAAAAAALI/otvvV8GWeXYUtUNStZubWKxOBtR-Ka8HQCLcB/s320/bein-sport-news-arabia2.png" group-title="BEIN SPORT",BeIN Sports AR 6
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAR6.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7qXnO6CIj9A/V7HGUq252lI/AAAAAAAAALI/otvvV8GWeXYUtUNStZubWKxOBtR-Ka8HQCLcB/s320/bein-sport-news-arabia2.png" group-title="BEIN SPORT",BeIN Sports AR 7
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAR7.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7qXnO6CIj9A/V7HGUq252lI/AAAAAAAAALI/otvvV8GWeXYUtUNStZubWKxOBtR-Ka8HQCLcB/s320/bein-sport-news-arabia2.png" group-title="BEIN SPORT",BeIN Sports AR 8
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAR8.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7qXnO6CIj9A/V7HGUq252lI/AAAAAAAAALI/otvvV8GWeXYUtUNStZubWKxOBtR-Ka8HQCLcB/s320/bein-sport-news-arabia2.png" group-title="BEIN SPORT",BeIN Sports AR 9
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAR9.m3u8
+
+
+
