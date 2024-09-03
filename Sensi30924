@@ -14,6 +14,13 @@ https://live01.gohkh9.eu.org/live.php?id=DEWAN
 https://live01.gohkh9.eu.org/live.php?id=SUKAN
 #EXTINF:-1 group-title="马来西亚",DEWAN NEGARA
 https://live01.gohkh9.eu.org/live.php?id=DEWAN
+-----------------
+-----------------
+logos/intl/ParamountPlusPicks.png",Paramount+ Picks
+#EXTGRP:Movies
+#EXTVLCOPT:network-caching=1000
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d14fc31252d35decbc4080b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=873&terminate=false&userId=
+
 
 http://mytv-extra.com:80/t12mgxyb335/9832948789/191964
 #EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/cn.png" tvg-id="cartoonnetwork.my" ,MY| CARTOON NETWORK HD
@@ -71,6 +78,77 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAR7.m3u
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAR8.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7qXnO6CIj9A/V7HGUq252lI/AAAAAAAAALI/otvvV8GWeXYUtUNStZubWKxOBtR-Ka8HQCLcB/s320/bein-sport-news-arabia2.png" group-title="BEIN SPORT",BeIN Sports AR 9
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAR9.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
